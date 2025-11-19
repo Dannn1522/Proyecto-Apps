@@ -1,0 +1,23 @@
+
+version: 2
+updates:
+  - package-ecosystem: "gradle"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    groups:
+      androidx:
+        applies-to: version-updates
+        patterns: 
+          - "androidx.*"
+      project-deps:
+        applies-to: version-updates
+        patterns:
+          - "com.android.application"
+          - "com.android.library"
+          - "org.jetbrains.kotlin.android"      
+  - package-ecosystem: "devcontainers"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
