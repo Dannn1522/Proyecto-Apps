@@ -23,7 +23,7 @@ import retrofit2.http.GET
 import retrofit2.http.Header
 import retrofit2.http.POST
 
-private const val BASE_URL = "http://192.168.1.6:5000"
+private const val BASE_URL = "http://54.196.239.98:5000"
 private val json = Json {ignoreUnknownKeys = true}
 
 private val retrofit = Retrofit.Builder()
