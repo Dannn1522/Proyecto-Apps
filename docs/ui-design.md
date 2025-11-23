@@ -1,8 +1,8 @@
 # Interfaz de usuario.
 
-## Cabecera (FLICKZY)
+## Cabecera (ChatLink)
 
-En la parte superior de la pantalla, deberíamos tener un título que diga algo como "Flickzy".
+En la parte superior de la pantalla, deberíamos tener un título que diga algo como "ChatLink".
 
 Este título es grande y centrado para destacarse.
 
