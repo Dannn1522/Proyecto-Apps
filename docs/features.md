@@ -48,54 +48,8 @@ El usuario puede enviar y recibir mensajes de texto en tiempo real.
 
 •Indicadores de "entregado" y "leído" para los mensajes (si se desea).
 
-# 4. Notificaciones Push
-
-## Funcionalidad: 
-
-El usuario recibe notificaciones de nuevos mensajes cuando la aplicación está en segundo plano o cerrada.
-
-## Componentes:
-
-•Notificación de nuevos mensajes con un breve resumen.
-
-•Sonido o vibración para alertar sobre mensajes nuevos.
-
-# 5. Perfil del usuario
-
-## Funcionalidad: 
-
-El usuario puede ver o editar su propio perfil.
-
-## Componentes:
-
-•Foto de perfil.
-
-•Nombre de usuario.
-
-•Estado (opcional).
-
-# 6. Cierre de sesión
+# 4. Cierre de sesión
 
 ## Funcionalidad: 
 
 El usuario puede cerrar sesión de la aplicación en cualquier momento.
-
-## Componentes:
-
-•Opción de cerrar sesión en el menú de configuración.
-
-# 7.Pantalla de configuración
-
-## Funcionalidad:
-
-Los usuarios pueden acceder a configuraciones básicas.
-
-## Componentes:
-
-•Opción de cambiar foto de perfil.
-
-•Modificar nombre o estado.
-
-•Cambiar número de teléfono o dirección de correo.
-
-•Configurar notificaciones.
