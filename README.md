@@ -1,6 +1,6 @@
-# Proyecto de ejemplo: Flickzy
+# Proyecto de ejemplo: ChatLink
 
-Este repositorio contiene el código fuente y la documentación del proyecto **Flickzy**, una aplicación de mensajería básica.
+Este repositorio contiene el código fuente y la documentación del proyecto **ChatLink**, una aplicación de mensajería básica.
 
 ## Requisitos
 
