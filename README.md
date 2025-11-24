@@ -27,13 +27,13 @@ Nota: Este proyecto también incluye una imagen pre-configurada con el SDK de An
 ## Funcionalidad de la Aplicación
 
 ### Enviar y Recibir Mensajes
-Flickzy permite a los usuarios enviar y recibir mensajes en tiempo real. La aplicación está conectada a un servidor para permitir la comunicación instantánea.
+ChatLink permite a los usuarios enviar y recibir mensajes en tiempo real. La aplicación está conectada a un servidor para permitir la comunicación instantánea.
 
 ### Ver Usuarios Conectados
 Los usuarios pueden ver quiénes están conectados en el momento.
 
 ### Ver Chats Recientes o Antiguos
-Flickzy mantiene un historial de los mensajes, permitiendo ver los chats recientes y los más antiguos.
+ChatLink mantiene un historial de los mensajes, permitiendo ver los chats recientes y los más antiguos.
 
 ## Pruebas
 
